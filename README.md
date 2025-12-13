@@ -57,7 +57,7 @@
 
 ### 🌐 Connect With Me
 - 💼 GitHub: https://github.com/ollayorbek0833
-- 📧 Email: *(add if you want)*
+- 📧 Email:  ollayorbek2005@gmail.com
 
 ---
 
