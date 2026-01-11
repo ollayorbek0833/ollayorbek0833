@@ -25,7 +25,7 @@
 **Core Skills**
 - Mobile: Flutter, Dart
 - Backend: Python, Telegram Bot API
-- Databases: SQLite
+- Databases: SQLite, Postgres
 - Cloud & DevOps: AWS (EC2), Linux, systemd
 - Tools: Git, GitHub
 
